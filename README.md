@@ -1,6 +1,7 @@
 Hi, I'm Muzamil 👋
 
-About Me
+About Me:
+
 💻 Aspiring Web Developer  
 🌱 Currently learning HTML, CSS, JavaScript & Python  
 🎯 Goal: Become a professional Full-Stack Developer  
