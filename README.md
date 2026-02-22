@@ -28,7 +28,7 @@ Consistency over perfection 🚀
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
   
-  <img src="https://skillicons.dev/icons?i=css3" height="60" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
