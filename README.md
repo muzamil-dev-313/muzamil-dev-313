@@ -52,5 +52,5 @@ Consistency over perfection 🚀
   <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg
+
 
