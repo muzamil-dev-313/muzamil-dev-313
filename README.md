@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Muzamil 👋</h1>
 
-About Me:
+<h3 align="left">👩‍💻  About Me</h3>
 
 💻 Aspiring Web Developer  
 🌱 Currently learning HTML, CSS, JavaScript & Python  
