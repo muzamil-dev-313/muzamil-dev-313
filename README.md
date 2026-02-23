@@ -24,7 +24,7 @@ Consistency over perfection 🚀
 
 ###
 
-<h2 align="center">Contribution</h2>
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
@@ -47,7 +47,7 @@ Consistency over perfection 🚀
 
 </div>
 
-
+<h2 align="center">Contribution</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
