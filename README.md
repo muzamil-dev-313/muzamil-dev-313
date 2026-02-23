@@ -46,7 +46,6 @@ Consistency over perfection 🚀
 </div>
 
 
-<h2 align="center">🐍 Pacman Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
