@@ -50,7 +50,7 @@ Consistency over perfection 🚀
 <h2 align="center">Contribution</h2>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" height="800px" width="80%"/>
+ <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 
