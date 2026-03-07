@@ -20,7 +20,6 @@
 Building strong fundamentals and real-world projects.
 Consistency over perfection 🚀
 
-
 ###
 
 <div align="left">
