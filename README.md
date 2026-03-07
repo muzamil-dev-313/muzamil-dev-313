@@ -23,11 +23,7 @@ Consistency over perfection 🚀
 
 
 
-
 ###
-
-
-
 
 
 
