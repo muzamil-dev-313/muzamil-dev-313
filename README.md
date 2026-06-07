@@ -7,7 +7,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 💻 Aspiring Web Developer  
-🌱 Currently learning HTML, CSS, JavaScript & Python  
+🌱 Currently learning HTML, CSS, JavaScript
 🎯 Goal: Become a professional Full-Stack Developer  
 
 🛠 Technologies I'm Learning
