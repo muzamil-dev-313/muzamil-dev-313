@@ -24,7 +24,7 @@
 📌 Current Focus
 Building strong fundamentals and real-world projects.
 Consistency over perfection 🚀
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-dev-313&" alt="muzamil-dev-313" /></p>
+<p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-dev-313&" alt="muzamil-dev-313" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
