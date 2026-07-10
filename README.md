@@ -45,7 +45,7 @@ Consistency over perfection 🚀
 
 <div align="left">
   <h3 align="left">Connect with me:</h3>
- <a href="https://instagram.com/https://www.instagram.com/_.mz4_11__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.mz4_11__/" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/_.mz4_11__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.mz4_11__/" height="30" width="40" /></a>
 
 </div>
 <br>
