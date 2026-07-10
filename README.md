@@ -1,9 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+ <img width="480" height="274" alt="giphy" src="https://github.com/user-attachments/assets/289754f3-e332-41ea-acbb-b6f53f2a2f93" />
 </div>
 
-<h1 align="center">Hi, I'm Muzamil 👋</h1>
+<h2 align="center">A passionate Full-Stack Developer from Pakistan 🇵🇰</h2>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&center=true&vCenter=true&width=550&color=8B5CF6&lines=Hey,+I'm+Muzamil;Aspiring+Full+Stack+Web+Developer;Consistency+Creates+Success;Turning+Ideas+Into+Code;Never+Stop+Learning" />
+</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-dev-313" /> </p>
 <h3 align="left">👩‍💻  About Me</h3>
 
 💻 Aspiring Web Developer  
@@ -20,9 +24,9 @@
 📌 Current Focus
 Building strong fundamentals and real-world projects.
 Consistency over perfection 🚀
+<p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-dev-313&" alt="muzamil-dev-313" /></p>
 
-###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
@@ -40,15 +44,15 @@ Consistency over perfection 🚀
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_.mz4_11__/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="165" alt="instagram logo"  /> </a>
+  <h3 align="left">Connect with me:</h3>
+ <a href="https://instagram.com/https://www.instagram.com/_.mz4_11__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.mz4_11__/" height="30" width="40" /></a>
 
 </div>
-
+<br>
 <h2 align="center">Contribution</h2>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
-
 
 
