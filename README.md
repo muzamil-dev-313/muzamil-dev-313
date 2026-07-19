@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&center=true&vCenter=true&width=550&color=8B5CF6&lines=Hey,+I'm+Muzamil;Aspiring+Full+Stack+Web+Developer;Consistency+Creates+Success;Turning+Ideas+Into+Code;Never+Stop+Learning" />
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-dev-313" /> </p>
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">💫 About Me</h2>
 
 
 💻 Aspiring Full-Stack Web Developer from Pakistan 🇵🇰
@@ -70,6 +70,6 @@ Consistency Creates Success
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=muzamil-dev-313&show_icons=true&theme=dark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzamil-dev-313&theme=dark&layout=compact" />
 </p>
