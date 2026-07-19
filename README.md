@@ -59,10 +59,10 @@ Consistency over perfection 🚀
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.shion.dev/api?username=muzamil-dev-313&show_icons=true&theme=dark" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzamil-dev-313&theme=dark&layout=compact" />
 </p>
