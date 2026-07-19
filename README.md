@@ -10,21 +10,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-dev-313" /> </p>
 <h3 align="left">👩‍💻  About Me</h3>
 
-💻 Aspiring Web Developer  
-🌱 Currently learning HTML, CSS, JavaScript
 
-🎯 Goal: Become a professional Full-Stack Developer  
+💻 Aspiring Full-Stack Web Developer from Pakistan 🇵🇰
 
-🛠 Technologies I'm Learning
+🌱 Currently learning:
 - HTML
 - CSS
 - JavaScript
 - Python
 
-📌 Current Focus
-Building strong fundamentals and real-world projects.
-Consistency over perfection 🚀
-<p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-dev-313&" alt="muzamil-dev-313" /></p>
+🎯 Goal:
+Become a Professional Software Engineer and Full-Stack Developer
+
+🚀 Current Focus:
+Building strong fundamentals, solving problems, and creating real-world projects.
+
+✨ Motto:
+Consistency Creates Success
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -39,6 +42,9 @@ Consistency over perfection 🚀
   
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" />
 </div>
 
 ###
@@ -46,23 +52,24 @@ Consistency over perfection 🚀
 <div align="left">
   <h3 align="left">Connect with me:</h3>
  <a href="https://www.instagram.com/_.mz4_11__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.mz4_11__/" height="30" width="40" /></a>
-
 </div>
-<br>
-<h2 align="center">Contribution</h2>
+<h2 align="center">Pacman Contribution Graph</h2>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
+<h2 align="center">🔥 Contribution Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-dev-313&theme=dark" />
+</p>
+<br>
 
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="right">
-  <img src="https://github-readme-stats.shion.dev/api?username=muzamil-dev-313&show_icons=true&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzamil-dev-313&theme=dark&layout=compact" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=muzamil-dev-313&show_icons=true&theme=dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzamil-dev-313&theme=dark&layout=compact" />
 </p>
