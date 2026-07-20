@@ -11,19 +11,20 @@
 <h2 align="left">💫 About Me</h2>
 
 
-💻 Aspiring Full-Stack Web Developer from Pakistan 🇵🇰
+💻 Aspiring Full-Stack Web Developer | Pakistan 🇵🇰
 
-🌱 Currently learning:
-- HTML
-- CSS
-- JavaScript
-- Python
+💡 Passionate about creating useful and user-friendly web experiences
+
+📚 Focused on mastering modern web technologies
 
 🎯 Goal:
 Become a Professional Software Engineer and Full-Stack Developer
 
-🚀 Current Focus:
-Building strong fundamentals, solving problems, and creating real-world projects.
+📈 Documenting my learning journey, progress, and projects on GitHub
+
+🚀 Currently building strong fundamentals, solving problems, and creating real-world projects.
+
+🌱 Preparing to dive into React and the modern frontend ecosystem
 
 ✨ Motto:
 Consistency Creates Success
