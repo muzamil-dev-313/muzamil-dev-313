@@ -7,7 +7,11 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&center=true&vCenter=true&width=550&color=8B5CF6&lines=Hey,+I'm+Muzamil;Aspiring+Full+Stack+Web+Developer;Consistency+Creates+Success;Turning+Ideas+Into+Code;Never+Stop+Learning" />
 </h3>
+<p align="center">
+  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-dev-313" /> </p>
+
 <h2 align="left">💫 About Me</h2>
 
 
@@ -38,17 +42,17 @@ Consistency Creates Success
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
 
-<h2 align="left">
+<h2 align="center">
   <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35" valign="middle" />
   My Tech Arsenal
 </h2>
 
-<p align="left">
+<p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,git,github" />
 </p>
 
