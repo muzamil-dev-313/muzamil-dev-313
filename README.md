@@ -10,8 +10,9 @@
 <p align="center">
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-dev-313" /> </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <h2 align="left">💫 About Me</h2>
 
 
@@ -33,9 +34,6 @@ Become a Professional Software Engineer and Full-Stack Developer
 ✨ Motto:
 Consistency Creates Success
 
-
-
-###
 
 
 <p align="center">
@@ -61,10 +59,18 @@ Consistency Creates Success
 </p>
 
 
-<div align="left">
-  <h3 align="left">Connect with me:</h3>
- <a href="https://www.instagram.com/_.mz4_11__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.mz4_11__/" height="30" width="40" /></a>
-</div>
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/_.mz4_11__/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
+
 <h2 align="center">Pacman Contribution Graph</h2>
 
 <p align="center">
