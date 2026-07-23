@@ -30,25 +30,32 @@ Become a Professional Software Engineer and Full-Stack Developer
 Consistency Creates Success
 
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
-</div>
 
 ###
+
+
+<p align="center">
+  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
+
+<h2 align="left">
+  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35" valign="middle" />
+  My Tech Arsenal
+</h2>
+
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
+
 
 <div align="left">
   <h3 align="left">Connect with me:</h3>
@@ -60,12 +67,19 @@ Consistency Creates Success
  <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
+
 <h2 align="center">🔥 Contribution Streak</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-dev-313&theme=dark" />
 </p>
 <br>
 
+<p align="center">
+  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -74,3 +88,5 @@ Consistency Creates Success
   &nbsp;
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzamil-dev-313&theme=dark&layout=compact" />
 </p>
+
+
