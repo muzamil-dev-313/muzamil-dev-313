@@ -10,7 +10,7 @@
 <p align="center">
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <h2 align="left">💫 About Me</h2>
@@ -40,18 +40,14 @@ Consistency Creates Success
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
 
-<h2 align="center">
+<h2 align="left">
   <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35" valign="middle" />
   My Tech Arsenal
 </h2>
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 </p>
 
 <p align="center">
@@ -59,9 +55,9 @@ Consistency Creates Success
 </p>
 
 
-<h2 align="center">📬 Connect With Me</h2>
+<h2 align="left">📬 Connect With Me</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/_.mz4_11__/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
   </a>
